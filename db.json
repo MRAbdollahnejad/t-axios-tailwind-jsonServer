@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brand": "samsung",
+      "name": "a13",
+      "src": "./src/image/galaxya13-5g-green-lockup-rgb.webp"
+    },
+    {
+      "id": 2,
+      "brand": "samsung",
+      "name": "a23",
+      "src": "./src/image/A23-4G-4-1.jpg"
+    },
+    {
+      "id": 3,
+      "brand": "samsung",
+      "name": "a33",
+      "src": "./src/image/jijimoo.com-Samsung-Galaxy-A33-02.webp"
+    },
+    {
+      "id": 4,
+      "brand": "samsung",
+      "name": "a42",
+      "src": "./src/image/SM_A426_Galaxy_A42_5G_Black_LockUp_1600x1200.webp"
+    },
+    {
+      "id": 5,
+      "brand": "samsung",
+      "name": "a52",
+      "src": "./src/image/download.jpg"
+    },
+    {
+      "id": 6,
+      "brand": "samsung",
+      "name": "a72",
+      "src": "./src/image/2858d5e91a7ed7b527f118b160b3613d3714e5db_1630924663.jpg"
+    },
+    {
+      "id": 7,
+      "brand": "apple",
+      "name": "a72",
+      "src": "./src/image/2858d5e91a7ed7b527f118b160b3613d3714e5db_1630924663.jpg"
+    }
+  ]
+}
